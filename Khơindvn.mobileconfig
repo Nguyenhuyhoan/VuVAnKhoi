@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//VI" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/aab37f</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Xác Minh App</string>
+			<key>PayloadIdentifier</key>
+			<string>io.nextdns.aab37f.profile</string>
+			<key>PayloadOrganization</key>
+			<string>khơindvn</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.aab37f</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/a7cf95</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Chặn Thu Hồi Không Chặn QC</string>
+			<key>PayloadIdentifier</key>
+			<string>io.nextdns.a7cf95.profile.dnsSettings.managed</string>
+			<key>PayloadOrganization</key>
+			<string>khơindvn</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.a7cf95</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/881bd9</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Chặn Thu Hồi Có Chặn QC</string>
+			<key>PayloadIdentifier</key>
+			<string>io.nextdns.881bd9.profile.dnsSettings.managed</string>
+			<key>PayloadOrganization</key>
+			<string>khơindvn</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.881bd9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>NextDNS Editor By Khơindvn 🇻🇳
+
+- Cập Nhật Sửa lại Cấu Hình DNS
+- Chặn Thu Hồi - Không Chặn Qc
+- Chặn Thu Hồi - Có Chặn Qc
+- Xác Minh App 
+- Lưu ý Cái Cấu Hinh Chặn Qc Và Không Chặn Qc  Đều Lỗi Apple store Không Cài Được App 
+
+- Cách Fix Là Ae Chuyển Qua Cấu Hinh Xác Minh
+App để cài Ứng Dụng Từ Apple Store 
+
+- Ae Yên Tâm Cả 3 Cấu Hình đều Có Chặn Thu Hồi 
+Nên Ae Không phải Lo Chuyển đi Chuyển Lại Cấu Hình Sẽ Bị Mất Chặn Thu Hồi 
+
+- Nghiêm Cấm Khi Dùng DNS 
+- Không dùng Vpn
+- Không tắt Nguồn IPhone 
+- Để Tránh Những Lỗi Không Mong Muốn
+</string>
+	<key>PayloadDisplayName</key>
+	<string>NextDNS By Khơindvn</string>
+	<key>PayloadIdentifier</key>
+	<string>ultralow.dns.nextdns.io</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
+Khơindvn
