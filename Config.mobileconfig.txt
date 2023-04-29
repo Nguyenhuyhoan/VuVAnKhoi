@@ -79,7 +79,7 @@ D
 <key>PayloadDisplayName</key>
 <string>Cấu Hình</string>
 <key>PayloadIdentifier</key>
-<string>Khơindvn</string>
+<string>ABCDEFGH</string>
 <key>PayloadRemovalDisallowed</key>
 <false/>
 <key>PayloadScope</key>
