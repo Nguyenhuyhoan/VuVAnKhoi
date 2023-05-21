@@ -11,7 +11,7 @@
 <key>DNSProtocol</key>
 <string>HTTPS</string>
 <key>ServerURL</key>
-<string>https://ultralow.dns.nextdns.io/aab37f</string>
+<string>https://dns.nextdns.io/aab37f</string>
 </dict>
 <key>PayloadDisplayName</key>
 <string>Chặn Thu Hồi</string>
